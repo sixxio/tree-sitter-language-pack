@@ -119,6 +119,7 @@ SupportedLanguage = Literal[
     "perl",
     "pgn",
     "php",
+    "plsql",
     "po",
     "pony",
     "powershell",
