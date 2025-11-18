@@ -489,8 +489,8 @@
   },
   "plsql": {
     "branch":"main",
-    "repo":"https://github.com/andreasmaierde/tree-sitter-plsql",
-    "rev":"28aebef209be57169600e1aa41ca1431cc6c916f"
+    "repo":"https://github.com/sixxio/tree-sitter-plsql",
+    "rev":"3cb1b1adf23612d879d2d3e756794e1359aa7b7f"
   },
   "po": {
     "repo": "https://github.com/tree-sitter-grammars/tree-sitter-po",
